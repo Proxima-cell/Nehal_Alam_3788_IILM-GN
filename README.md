@@ -1,6 +1,6 @@
-# SQLAlchemy Practice
+#SQLAlchemy Project 
 
-This repository contains my SQLAlchemy ORM practice code.
+This repository contains my SQLAlchemy ORM code.
 
  * Topics Covered
  Creating models
