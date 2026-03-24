@@ -1,16 +1,26 @@
-#SQLAlchemy Project 
+# SQLAlchemy Project
 
-This repository contains my SQLAlchemy ORM code.
+This project demonstrates how to use SQLAlchemy ORM in Python to interact with databases.
 
- * Topics Covered
- Creating models
- Sessions
- CRUD operations
- Basic database operations
+## What This Project Does
+- Connects Python with a database
+- Performs CRUD operations
+- Uses structured models
 
-* How to Run
-1. Install Python
-2. Install dependencies (if required)
-3. Run the main file:
+## Technologies Used
+- Python
+- SQLAlchemy
 
+## Files Included
+- main.py → Main execution file
+- models.py → Database models
+- database.py → Database connection setup
+
+## Purpose
+This project is created as part of academic learning and backend development practice.
+
+## Author
+Nehal Alam  
+BTech CSE (AI & ML)  
+IILM University
 
